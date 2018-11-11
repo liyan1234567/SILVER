@@ -1,0 +1,6 @@
+C:\SILVER\SILVER.Web\bin\SILVER.Web.dll.config
+C:\SILVER\SILVER.Web\bin\SILVER.Web.dll
+C:\SILVER\SILVER.Web\bin\SILVER.Web.pdb
+C:\SILVER\SILVER.Web\obj\Debug\SILVER.Web.csprojResolveAssemblyReference.cache
+C:\SILVER\SILVER.Web\obj\Debug\SILVER.Web.dll
+C:\SILVER\SILVER.Web\obj\Debug\SILVER.Web.pdb

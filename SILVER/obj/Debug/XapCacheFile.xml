@@ -1,0 +1,8 @@
+﻿<xapCache source="C:\SILVER\SILVER\Bin\Debug\SILVER.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2018/11/11 11:56:19">
+  <file source="C:\SILVER\SILVER\obj\Debug\SILVER.dll" archivePath="SILVER.dll" lastWriteTime="2018/11/11 11:56:18" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="2011/11/18 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="2011/11/18 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll" archivePath="zh-Hans\System.ComponentModel.DataAnnotations.resources.dll" lastWriteTime="2011/12/7 23:27:32" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\zh-Hans\System.Windows.Controls.Data.Input.resources.dll" archivePath="zh-Hans\System.Windows.Controls.Data.Input.resources.dll" lastWriteTime="2011/12/7 23:27:32" />
+  <file source="C:\SILVER\SILVER\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2018/11/11 11:56:18" />
+</xapCache>
